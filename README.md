@@ -14,10 +14,11 @@ Through this portfolio, I aim to showcase the projects I’ve worked on as both 
 I also open to colloborate any projects like front-end or back-end. For any contact, visit below ;
 
 </p>
+<br/>
 
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="20" style="max-width: 100%;">
-Reach out to me at:
+Socials
 </h1>
 
 <div align="center">
@@ -31,8 +32,32 @@ Reach out to me at:
         <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
+<br/>
 
-<br>
+<h1 align="center">💻 Tech Stack</h1>
+<div align="center">
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI">
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+    <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script">
+    <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="Sequelize">
+</div>
+<br/>
 
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" style="max-width: 100%;"> Stats & Activity <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="20" style="max-width: 100%;">
@@ -40,11 +65,11 @@ Reach out to me at:
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 0;width: 60%;">
-      <img align="center" style="padding: 0;" src="https://github-readme-stats.vercel.app/api?username=aurelioo29&show_icons=true&theme=light" />
+    <td align="center" style="padding: 0;width: 20%;">
+      <img align="center" style="padding: 0;" src="https://github-readme-stats.vercel.app/api?username=aurelioo29&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td align="center" style="padding: 0;width: 60%;">
-      <img align="center" style="padding: 0;" src="https://github-readme-stats.vercel.app/api/top-langs?username=aurelioo29&show_icons=true&locale=en&layout=compact" />
+      <img align="center" style="padding: 0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurelioo29&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
     </td>
   </tr>
 </table>
